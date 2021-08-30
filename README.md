@@ -1,6 +1,7 @@
-# intro
-## what will the bot run with
-- **stockfish 14 dev + popcnt**
+
+## Engine Information
+- **Stockfish 14 dev + popcnt**
+## Python version
 - **python 3.9.6**
-## accounts which run in this code
+## Lichess bot using this repo
 [NicknameBOT](https://lichess.org/@/NicknameBOT)
